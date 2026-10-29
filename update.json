@@ -1,0 +1,6 @@
+{
+  "versionCode": 51,
+  "versionName": "5.0",
+  "notes": "- Update available popup with Install now\n- Google sign-in during setup\n- About page with developer Discord profile\n- Home shows only your server IP",
+  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.0/MiniHost-v5.0.apk"
+}
