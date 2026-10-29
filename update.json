@@ -1,6 +1,1 @@
-{
-  "versionCode": 51,
-  "versionName": "5.0",
-  "notes": "- Update available popup with Install now\n- Google sign-in during setup\n- About page with developer Discord profile\n- Home shows only your server IP",
-  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.0/MiniHost-v5.0.apk"
-}
+{"versionCode": 52, "versionName": "5.1", "notes": "- New Schematics tab\n- One-tap WorldEdit setup\n- Upload .schem files, preview them in 3D\n- Paste builds with //schem load and //paste", "url": "https://github.com/sahalshibudheen-hash/minihost/releases/download/v5.1/MiniHost-v5.1.apk"}
