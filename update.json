@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "5.2.5",
-  "notes": "- Small test build: the About sheet (the i button, top right) now shows which Mini Host version is installed\n- Fix: the in-app update now actually opens the Android install screen\n- New: Build library in the Schematics tab - search ready-made builds, spin them in 3D, add one to your server with a tap\n- New: Players online card on Home - who is connected, their ping, world and coordinates",
-  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.2.5/MiniHost-v5.2.5.apk"
+  "versionCode": 60,
+  "versionName": "5.2.6",
+  "notes": "- Update test build: this is the version that proves the in-app updater opens the Android install screen\n- The Console tab now reports each step of the installer, so a hang tells us exactly where it stopped\n- Nothing else changed - same 10 permissions, same features as 5.2.5",
+  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.2.6/MiniHost-v5.2.6.apk"
 }
