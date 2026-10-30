@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "5.2.2",
-  "notes": "- Fix: removes the permission that made Android warn the download \"might be harmful\"\n- New: Players online card on Home — who is connected, their ping, world and coordinates\n- New: Kick and Ban buttons for every player (to undo a ban: pardon <name> in the Console tab)\n- Bedrock players are marked in the list",
-  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.2.2/MiniHost-v5.2.2.apk"
+  "versionCode": 57,
+  "versionName": "5.2.3",
+  "notes": "- New: Build library in the Schematics tab - search ready-made builds, spin them in 3D, then add one to your server with a tap\n- Fix: removes the permission that made Android warn the download \"might be harmful\"\n- New: Players online card on Home - who is connected, their ping, world and coordinates\n- New: Kick and Ban buttons for every player (to undo a ban: pardon <name> in the Console tab)\n- Home now shows your tunnel's name as the address instead of the numbers",
+  "url": "https://github.com/sahalshihabudheen-hash/minihost/releases/download/v5.2.3/MiniHost-v5.2.3.apk"
 }
